@@ -1,2 +1,2 @@
-# 100DaysOfCodeWithPython
-100 Days of Code Challenges with Python Programming.
+# 100 Days Of Python Projects.
+100 Days of Projects with Python Programming.
